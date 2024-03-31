@@ -1,6 +1,6 @@
 /**
  * Retrieves the sum of ids of a list of students.
- * @param {Array} students - The list of students, each containing id, firstName, and location.
+ * @param {Array} students - The list of students.
  * @returns {Number} The sum of student ids.
  */
 export default function getStudentIdsSum(students) {
